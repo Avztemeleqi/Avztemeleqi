@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I continue my education about software development
 - 👯 I’m looking to collaborate on 🤝;
 - 💬 You can ask me about anything I am happy to help;
-- 📫 Poke me: avztemeleqi@mail.com;
+- 📫 Poke me: avztemeleqi@gmail.com;
 
 **Languages and Tools:** 
 
