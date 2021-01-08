@@ -1,6 +1,6 @@
 
 <!-- Your title -->
-## Hi, I'm Avzte, a Developer and CEO 🚀 from Turkey.
+## Hi, I'm Avzte, a Developer 🚀 from Turkey.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
